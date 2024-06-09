@@ -1,0 +1,6 @@
+@LinqExe_HostAddress = http://localhost:5009
+
+GET {{LinqExe_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
